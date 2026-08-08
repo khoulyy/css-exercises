@@ -89,3 +89,8 @@ button.cancel {
   flex-direction: column;
   gap: 15px;
 }
+
+.header {
+  font-weight: bold;
+  font-size: 22px;
+}
